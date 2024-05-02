@@ -3,7 +3,7 @@
 
 ***Conteúdo da Aula:***
 
-Neste nosso curso, adotaremos o **C** como linguagem de programação para continuarmos praticando nossa lógica.
+Neste nosso curso, adotaremos o ***C*** como linguagem de programação para continuarmos praticando nossa lógica.
 
 Mas, por que o **C**?
 
